@@ -12,3 +12,8 @@
 6. php artisan migrate
 7. gulp
 8. php artisan serve
+
+
+## Description
+
+This is a simple app I made with laraval 5.2, vue.js and sqlite as a part of learning laravel and checking the newest version of laravel. 
